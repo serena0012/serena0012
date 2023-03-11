@@ -9,7 +9,7 @@
 - JSON
 - Mysql
  
- 🌱 I’m currently learning C programming language 
+ 🌱 I’m currently learning Javascript
 You can reach me on +2349032369185,  jonathangnenga@gmail.com
 
 
