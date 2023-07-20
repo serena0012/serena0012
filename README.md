@@ -1,4 +1,4 @@
-## I'm a Software Engineer (Front-End ) & a Data Analyst ##
+## I'm a Software Engineer (Front-End ) ##
 
 ## Interests: ##              
 - Python
@@ -9,7 +9,7 @@
 - JSON
 - Mysql
  
- 🌱 I’m currently learning Javascript
+ 🌱 I’m currently learning at Alx-Holberton school of Software engineering with specialization in frontend development
 You can reach me on +2349032369185,  jonathangnenga@gmail.com
 
 
