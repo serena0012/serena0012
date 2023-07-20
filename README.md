@@ -10,7 +10,7 @@
 - Mysql
  
  🌱 I’m currently learning at Alx-Holberton school of Software engineering with specialization in frontend development
-You can reach me on +2349032369185,  jonathangnenga@gmail.com
+You can reach me on +1(401)3476956,  jonathangnenga@gmail.com
 
 
 
