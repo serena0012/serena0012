@@ -1,4 +1,4 @@
-## |Alx_Holberton grad | Crafting Stunning UIs | Seeking Collaborative Coding Adventure| ##
+## |Software Engineer|Alx_Holberton grad | Crafting Stunning UIs Reactjs | Seeking Collaborative Coding Adventure| ##
 
 ## Interests: ##              
 - Python
