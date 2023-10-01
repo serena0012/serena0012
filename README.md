@@ -1,4 +1,4 @@
-## |Alx_Holberton grad | Crafting Stunning UIs | Seeking Collaborative Coding Adventure |##
+## |Alx_Holberton grad | Crafting Stunning UIs | Seeking Collaborative Coding Adventure| ##
 
 ## Interests: ##              
 - Python
