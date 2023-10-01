@@ -1,4 +1,4 @@
-## I'm a Software Engineer (Front-End: ReactJS ) ##
+## |Alx_Holberton grad | Crafting Stunning UIs | Seeking Collaborative Coding Adventure |##
 
 ## Interests: ##              
 - Python
