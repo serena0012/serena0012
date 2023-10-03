@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 I'm always open to collaboration and discussing new opportunities. If you'd like to connect, share ideas, or simply have a chat about front-end development, feel free to reach out to me:
 
 - 📧 Email: [jonathanelegbede@email.com](mailto:jonathanelegbede@gmail.com)
-- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gbengaelegbede)
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 Let's build amazing web experiences together! 🚀
