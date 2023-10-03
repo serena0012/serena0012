@@ -31,7 +31,7 @@ I'm always open to collaboration and discussing new opportunities. If you'd like
 
 Let's build amazing web experiences together! 🚀
 
-[![serena0012's GitHub stats](https://github-readme-stats.vercel.app/api?username=serena0012)](https://github.com/serena0012/github-readme-stats)
+[![serena0012's GitHub stats](https://github-readme-stats.vercel.app/api?username=serena0012 &show_icons=true)](https://github.com/serena0012/github-readme-stats)
 
 <!---
 serena0012/serena0012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
