@@ -14,14 +14,6 @@ I'm a passionate software engineer with a strong focus on front-end development,
 
 - 🌐 Web Technologies: I stay up-to-date with the latest trends and technologies in the web development world. My toolkit includes HTML5, CSS3, JavaScript, and a variety of front-end build tools and package managers.
 
-### My Projects
-
-Here are some of the projects I've worked on:
-
-- [Project 1 Name](https://github.com/yourusername/project1): A brief description of the project and your role in it.
-
-- [Project 2 Name](https://github.com/yourusername/project2): Another exciting project, highlighting your contributions and achievements.
-
 ### Get in Touch
 
 I'm always open to collaboration and discussing new opportunities. If you'd like to connect, share ideas, or simply have a chat about front-end development, feel free to reach out to me:
@@ -31,8 +23,6 @@ I'm always open to collaboration and discussing new opportunities. If you'd like
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 Let's build amazing web experiences together! 🚀
-
-[![serena0012's GitHub stats](https://github-readme-stats.vercel.app/api?username=serena0012)](https://github.com/serena0012/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serena0012&langs_count=8)
 <!---
