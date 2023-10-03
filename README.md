@@ -35,7 +35,7 @@ Let's build amazing web experiences together! 🚀
 
 ![serena0012's GitHub stats](https://github-readme-stats.vercel.app/api?username=serena0012&show_icons=true&theme=radical)
 
-[![serena0012's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/serena0012/github-readme-stats)
+[![serena0012's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serena0012)](https://github.com/serena0012/github-readme-stats)
 <!---
 serena0012/serena0012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
