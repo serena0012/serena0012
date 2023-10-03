@@ -32,12 +32,6 @@ I'm always open to collaboration and discussing new opportunities. If you'd like
 Let's build amazing web experiences together! 🚀
 
 
- 
- 🌱 I’m currently learning at Alx-Holberton School of Software Engineering with a specialization in frontend development
-You can reach me at +1(401)3476956,  jonathangnenga@gmail.com
-
-
-
 
 <!---
 serena0012/serena0012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
