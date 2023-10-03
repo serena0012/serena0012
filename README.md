@@ -5,7 +5,7 @@
 I'm a passionate software engineer with a strong focus on front-end development, specializing in React.js. I have a deep love for crafting user-friendly and visually appealing web applications. My journey in the world of software development has allowed me to work on a variety of exciting projects and hone my skills in creating responsive and interactive user interfaces.
 
 <img src="https://user-images.githubusercontent.com/111250548/196680278-ec6e9326-e09c-4c6b-90e7-ed99855c61bb.jpg" align="center" width="1000" height="500">
-### What I Do
+### What I Do ###
 
 - 💻 Front-End Development: I'm proficient in building modern and scalable web applications using React.js. I enjoy working with state management libraries like Redux and designing elegant user interfaces with CSS frameworks like Bootstrap and Material-UI.
 
