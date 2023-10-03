@@ -1,4 +1,6 @@
-## |Software Engineer|Alx_Holberton grad | Crafting Stunning UIs with Reactjs | Seeking Collaborative Coding Adventure| ##
+## About ##
+
+I am a software engineer
 
 
 <img src="https://user-images.githubusercontent.com/111250548/196680278-ec6e9326-e09c-4c6b-90e7-ed99855c61bb.jpg" align="center" width="1000" height="500">
