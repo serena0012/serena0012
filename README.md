@@ -4,6 +4,7 @@
 
 I'm a passionate software engineer with a strong focus on front-end development, specializing in React.js. I have a deep love for crafting user-friendly and visually appealing web applications. My journey in the world of software development has allowed me to work on a variety of exciting projects and hone my skills in creating responsive and interactive user interfaces.
 
+<img src="https://user-images.githubusercontent.com/111250548/196680278-ec6e9326-e09c-4c6b-90e7-ed99855c61bb.jpg" align="center" width="1000" height="500">
 ### What I Do
 
 - 💻 Front-End Development: I'm proficient in building modern and scalable web applications using React.js. I enjoy working with state management libraries like Redux and designing elegant user interfaces with CSS frameworks like Bootstrap and Material-UI.
@@ -24,15 +25,12 @@ Here are some of the projects I've worked on:
 
 I'm always open to collaboration and discussing new opportunities. If you'd like to connect, share ideas, or simply have a chat about front-end development, feel free to reach out to me:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [jonathanelegbede@email.com](mailto:jonathanelegbede@gmail.com)
 - 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 Let's build amazing web experiences together! 🚀
 
-
-
-<img src="https://user-images.githubusercontent.com/111250548/196680278-ec6e9326-e09c-4c6b-90e7-ed99855c61bb.jpg" align="center" width="1000" height="500">
 
  
  🌱 I’m currently learning at Alx-Holberton School of Software Engineering with a specialization in frontend development
